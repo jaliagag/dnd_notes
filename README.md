@@ -8,7 +8,7 @@
 - **Alcance:** 30 pies
 - **Componentes:** V, S
 - **Duración:** 1 minuto
-- **Clases:** [Artífice](https://dnd5e.fandom.com/es/wiki/Art%C3%ADfice "Artífice"), Bardo, Brujo, Hechicero, Mago
+- **Clases:** Artífice, Bardo, Brujo, Hechicero, Mago
   
 Una mano espectral flotante aparece en un punto que elijas dentro del alcance. La mano permanece por la duración o hasta que la hagas desaparecer como acción. La mano se desvanece si llega a estar a más de 30 pies de ti o si vuelves a lanzar este conjuro.
 
@@ -75,7 +75,7 @@ Además, los objetos no asegurados que estén enteramente dentro del área de ef
 - **Alcance:** personal
 - **Componentes:** V, S
 - **Duración:** 1 hora
-- **Clases:** [Artífice](https://dnd5e.fandom.com/es/wiki/Lista_de_conjuros_de_art%C3%ADfice "Lista de conjuros de artífice"), Bardo, Hechicero, Mago
+- **Clases:** Artífice, Bardo, Hechicero, Mago
   
 Haces que tu apariencia, incluyendo tu vestimenta, armadura, armas y otras posesiones en tu persona, parezca distinta hasta que el conjuro termine o hasta que uses tu acción para disiparlo. Puedes parecer 1 pie más o menos alto, delgado, gordo, o en un punto intermedio. No puedes cambiar el tipo de tu cuerpo, por lo que debes adoptar una forma que tenga la misma disposición básica de extremidades. De otra forma, la extensión de la ilusión depende de ti.
 
@@ -105,7 +105,7 @@ Al final de cada uno de sus turnos, y cada vez que sufra daño, el objetivo pued
 - **Alcance:** 60 pies
 - **Componentes:** V, M (una pluma pequeña o un trozo de plumón)
 - **Duración:** 1 minuto
-- **Clases:** [Artífice](https://dnd5e.fandom.com/es/wiki/Lista_de_conjuros_de_art%C3%ADfice "Lista de conjuros de artífice"), Bardo, Hechicero, Mago
+- **Clases:** Artífice, Bardo, Hechicero, Mago
   
 Elige hasta cinco criaturas que estén cayendo dentro del alcance. La velocidad de caída de las criaturas afectadas se reduce a 60 pies por asalto hasta que el conjuro termine. Si la criatura aterriza antes que el conjuro termine, no sufre daño de caída y puede aterrizar por su cuenta, y el conjuro termina para esa criatura.
 
@@ -117,7 +117,7 @@ Elige hasta cinco criaturas que estén cayendo dentro del alcance. La velocidad 
 - **Alcance:** toque
 - **Componentes:** V, S, M (una perla con un valor mínimo de 100 de oro y una pluma de búho)
 - **Duración:** instantáneo
-- **Clases:** [Artífice](https://dnd5e.fandom.com/es/wiki/Lista_de_conjuros_de_art%C3%ADfice "Lista de conjuros de artífice"), Bardo, Mago
+- **Clases:** Artífice, Bardo, Mago
   
 Eliges un objeto que debes tocar durante el lanzamiento del conjuro. Si es un objeto mágico o un objeto imbuido de magia, aprendes sus propiedades y cómo usarlo, si requiere vinculación para usarse, y cuántas cargas tiene, si las tuviera. También descubres si hay algún conjuro afectando al objeto y cuál es. Si el objeto fue creado por un conjuro, descubres qué conjuro lo creó.
 
